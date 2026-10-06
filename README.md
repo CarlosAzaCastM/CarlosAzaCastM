@@ -1,5 +1,5 @@
 # ¡Hola! Soy Carlos Castañeda 👋
-### Estudiante de Desarrollo de Software | Full-Stack Developer 🚀
+### Full-Stack Developer 🚀
 
 Soy un apasionado del desarrollo de software de México, enfocado en construir aplicaciones web modernas, rápidas y escalables. Disfruto diseñar desde interfaces atractivas hasta arquitecturas de bases de datos relacionales y flujos de trabajo complejos.
 
